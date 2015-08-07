@@ -54,7 +54,7 @@ to be sent with your certificate request
 A challenge password []:
 ```
 
-#### Create the orginization file
+#### Create the organization file
 ```
 joseph@glock:~/Downloads/libtls-echo-server
 $ cp server.key server.org
